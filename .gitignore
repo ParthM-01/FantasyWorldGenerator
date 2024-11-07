@@ -1,0 +1,6 @@
+books_epub/
+books_txt/
+fantasy_gpt2_model/  
+fantasyenv/
+__pycache__/
+*.pyc
