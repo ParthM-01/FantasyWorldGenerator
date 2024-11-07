@@ -2,5 +2,6 @@ books_epub/
 books_txt/
 fantasy_gpt2_model/  
 fantasyenv/
+preprocessed_fantasy_texts.txt
 __pycache__/
 *.pyc
